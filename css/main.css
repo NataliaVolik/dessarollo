@@ -49,24 +49,27 @@ nav{
 
 ul {
     list-style-type: none;
-    margin: 70px 0 0 76px;
-    -webkit-padding-start: 0;
+    margin: 70px 0 0 24px;
+    display: block;
+    padding-left: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#mainNav .shadow{
+    /*margin: 0 0 0 -53px;*/
     display: block;
 }
 
-    a {
-        text-decoration: none;
-        color: #ffffff;
-    }
-
-    .shadow{
-        margin: 0 0 0 -53px;
-        display: block;
-    }
-
 #mainNav .active{
-    background-image: url(../img/lite.png);
-    background-position-x: center;
+    background: url(../img/lite.png) no-repeat;
+}
+
+#mainNav a {
+    margin-left: 53px;
 }
 
 footer{

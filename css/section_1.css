@@ -2,7 +2,7 @@ section{
     font-size: 16px;
     font-family: GillSans, sans-serif;
     color: #ffffff;
-    margin: 0 23px 156px 85px;
+    margin: 0 23px 156px 83px;
 }
 
 h5{
@@ -20,12 +20,12 @@ h5{
 }
 
 .lamp{
-    margin: 0 0 12px 103px;
+    margin: 0 0 12px 69px;
 }
 
 .blur{
     display: block;
-    margin: 0 0 0 72px;
+    margin: 0 0 0 39px;
 }
 
 #pic{
@@ -33,7 +33,7 @@ h5{
 }
 
 #text{
-    margin: 29px 25px 0 0;
+    margin: 29px 25px 0 207px;
 }
 
 .button{
