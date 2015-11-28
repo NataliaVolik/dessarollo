@@ -2,11 +2,14 @@
 
 Conversion of Adobe Photoshop Templates to HTML markup.
 
-### Main page
-![mainpage](design/dessarollo.png)
+### Screenshots
+<a href="design/dessarollo.png"><img src="design/dessarollo.png" width="280" ></a>
+<a href="design/dessarollo_subpage.png"><img src="design/dessarollo_subpage.png" width="280" ></a>
+<a href="design/dessarollo_subpage_2.png"><img src="design/dessarollo_subpage_2.png" width="280" ></a>
 
-### Subpage 1
-![subpage1](design/dessarollo_subpage.png)
+### Demo page
+[http://dessarollo.nataliavolik.pro](http://dessarollo.nataliavolik.pro/)
 
-### Subpage 2
-![subpage2](design/dessarollo_subpage_2.png)
+***
+
+See my other projects at [http://nataliavolik.pro](http://nataliavolik.pro/portfolio)
