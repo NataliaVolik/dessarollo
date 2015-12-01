@@ -5,7 +5,7 @@ section{
     margin: 0 23px 156px 83px;
 }
 
-h5{
+h4{
     font-size: 25px;
     font-weight: normal;
     display: inline;
@@ -17,6 +17,7 @@ h5{
     border: 1px solid #ffffff;
     word-wrap: break-word;
     display: inline-block;
+    float: right;
 }
 
 .lamp{
@@ -45,7 +46,7 @@ h5{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 45px 53px 0 0;
+    margin: 57px 53px 0 0;
     cursor: pointer;
     font-family: GillSans,sans-serif;
     float: right;

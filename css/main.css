@@ -1,11 +1,17 @@
 body{
-    width: 74%;
-    height: 26%;
-    margin: 32px 174px;
+    margin: 0 auto;
 }
 
 .wrapper{
     background-image: linear-gradient(#ff9900, #d56f00);
+    width: 1000px;
+    height: 715px;
+    top:50%;
+    left:50%;
+    position: absolute;
+    margin-top: -330px;
+    margin-left: -500px;
+    background-size: cover;
 }
 
 header{
@@ -26,7 +32,7 @@ h1{
 
 .tilda{
     font-size: 56px;
-    margin: 0 0 -40px 110px;
+    margin: 12px 0 -40px 110px;
     display: block;
 }
 
@@ -49,7 +55,7 @@ nav{
 
 ul {
     list-style-type: none;
-    margin: 70px 0 0 24px;
+    margin: 80px 0 0 24px;
     display: block;
     padding-left: 0;
 }
@@ -73,18 +79,32 @@ a {
 }
 
 footer{
-        font-family: "Arial Regular", sans-serif;
-        font-size: 12px;
-        color: #ffffff;
-        text-align: center;
-        padding: 27px 357px;
-        clear:both;
-    }
+    font-family: "Arial Regular",sans-serif;
+    font-size: 12px;
+    color: #FFF;
+    text-align: center;
+    clear: both;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin: auto -133px;
+    width: 265px;
+}
 
-    .shl{
-        float: left;
-    }
+footer span{
+    margin-top: 13px;
+    display: block;
+}
 
-    .shr{
-        float: right;
-    }
+.shl{
+    float: left;
+}
+
+.shr{
+    float: right;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
