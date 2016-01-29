@@ -8,7 +8,7 @@ Conversion of Adobe Photoshop Templates to HTML markup.
 <a href="design/dessarollo_subpage_2.png"><img src="design/dessarollo_subpage_2.png" width="280" ></a>
 
 ### Demo page
-[http://dessarollo.nataliavolik.pro](http://dessarollo.nataliavolik.pro/)
+http://nataliavolik.github.io/dessarollo/
 
 ***
 
